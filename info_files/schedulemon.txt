@@ -1,0 +1,48 @@
+1-Sleeping-00:00
+2-Sleeping-00:30
+3-Sleeping-01:00
+4-Sleeping-01:30
+5-Sleeping-02:00
+6-Sleeping-02:30
+7-Sleeping-03:00
+8-Sleeping-03:30
+9-Morning Routine-04:00
+10-Morning Routine-04:30
+11-Morning Routine-05:00
+12-Morning Routine-05:30
+13-Empty-06:00
+14-Empty-06:30
+15-Working-07:00
+16-Working-07:30
+17-Working-08:00
+18-Working-08:30
+19-Working-09:00
+20-Working-09:30
+21-Working-10:00
+22-Working-10:30
+23-Working-11:00
+24-Working-11:30
+25-Lunch-12:00
+26-Working-12:30
+27-Working-13:00
+28-Working-13:30
+29-Working-14:00
+30-Working-14:30
+31-Evening Routine-15:00
+32-Evening Routine-15:30
+33-Evening Routine-16:00
+34-Evening Routine-16:30
+35-Empty-17:00
+36-Empty-17:30
+37-Empty-18:00
+38-Empty-18:30
+39-Empty-19:00
+40-Empty-19:30
+41-Empty-20:00
+42-Sleeping-20:30
+43-Sleeping-21:00
+44-Sleeping-21:30
+45-Sleeping-22:00
+46-Sleeping-22:30
+47-Sleeping-23:00
+48-Sleeping-23:30

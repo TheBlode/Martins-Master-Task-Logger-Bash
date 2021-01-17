@@ -1,0 +1,5 @@
+Barcode#-Box#-Item-Quantity-Usage_Level-Long_Term_Storage-Present
+1-~-CabinMax-4GB Laptop RAM-2-Low-No-Yes
+2-~-CabinMax-Acer Aspire Charger-1-Low-No-Yes
+3-~-CabinMax-Acer Aspire One Battery-0-Low-No-Yes
+

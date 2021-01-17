@@ -1,0 +1,9 @@
+===============
+Hospitals/Health Advice
+===============
+MRI - 0161 276 1234
+Wythenshawe - 0161 998 7070
+Withington - 0161 434 5555
+Christie - 0161 446 3000
+Docs - 0161 432 1404
+Dentist - 0161 224 4345

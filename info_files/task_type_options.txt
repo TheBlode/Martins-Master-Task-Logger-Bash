@@ -1,0 +1,44 @@
+Task Log
+Morning Routine Progress
+Evening Routine Progress
+Weekend Routine Progress
+Music Log
+TV/Movie Log
+Radio Log
+Thoughts/Ideas Log
+Underwear Tracker
+Water Tracker
+Alarm Tones (Not Working)
+To-Do List
+Meal Tracker
+Task Log Output
+Sleep Tracker
+Shopping List
+New Day
+Music Randomizer
+Time Logger
+Post Task Logger
+Quote Generator
+Weight Tracker
+Day Planner
+Possessions Tracker
+The Magic Eight Ball
+Depression & Anxiety
+Coin Flipper
+Inspiration
+Cash Tracker
+Day Calculator
+Name Generator
+Word Of The Day
+Remove Last Task
+Small Talk
+Verbal Script
+Battery Tracker
+Joke Generator
+Bags Tracker
+Calorie Tracker
+Appointments
+Stats Tracker
+Travel Tracker
+Game Randomizer
+Phone Numbers
