@@ -1,4 +1,7 @@
 # Martin's Master Task Logger (Bash)
+
+![alt text](https://i.imgur.com/iXNLqFm.png)
+
 Welcome to Martin's Master Task Logger! A task logger application that can help you track and log tasks to improve your life.
 
 This wonderful script (or plebeian script, depending on your outlook on life) allows you to log most aspects of your existence.
